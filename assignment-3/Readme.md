@@ -2,7 +2,7 @@
 
 This assignment explores data visualization and interpretation using U.S. presidential campaign finance data in R.
 
-## What I did
+## Analysis Highlights
 - Compared presidential fundraising trends by political party
 - Analyzed candidate counts across election years
 - Created a U.S. map showing top-earning presidential candidates by state
