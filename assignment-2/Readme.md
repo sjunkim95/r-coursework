@@ -2,7 +2,7 @@
 
 This assignment analyzes U.S. election campaign finance data using R.
 
-## What I did
+## Analysis Highlights
 - Compared candidate status across election cycles
 - Analyzed top fundraisers and party-level contribution trends
 - Visualized candidate counts by office and party
